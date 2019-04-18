@@ -1,0 +1,201 @@
+body {
+    background-image: url(fon.jpg);
+}
+
+.nav {
+    display: block;
+    background:rgba(126.105,78,0.781);
+}
+    .nav .menu {
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        list-style: none outside none;
+    }
+     .nav li {
+         display: inline-block;
+         margin: 0 10px;
+         font-size: 20px;
+         font-weight: 600;
+         line-height: 40px;
+     }
+       .nav li a {
+           display: block;
+           height: 100%;
+           padding: 6px 12px;
+           color: white;
+           text-decoration: none;
+       }
+
+.nav li:nover a {
+    background: rgba(0, 0, 0, .3);
+}  
+h1 {
+    text-align: center;
+    color: white;
+    background:rgb(35, 109, 13);
+    size: 44px;
+}
+.levo {
+    float: left;
+    width: 40%;
+}
+.pravo {
+    float: right;
+    width: 58%;
+    background: rgba(245, 245, 220, 0.897);
+    padding: 10px;
+}
+footer {
+    display: block;
+    background:rgb(78, 55, 18);
+    overflow: hidden;
+    clear: both;
+    color: white;
+    text-align: center
+}
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         ]
+         
+
+    
+                                         
